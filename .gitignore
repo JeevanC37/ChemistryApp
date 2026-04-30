@@ -1,0 +1,38 @@
+# Unity
+Library/
+obj/
+Logs/
+UserSettings/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.sln.DotSettings
+*.DotSettings
+*.DotSettings.user
+
+# Build
+Builds/
+*.apk
+*.ipa
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+*.iml
+*.code-workspace
+
+# Rider
+.idea/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
